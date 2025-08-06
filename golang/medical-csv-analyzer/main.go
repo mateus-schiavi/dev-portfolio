@@ -126,3 +126,4 @@ func main() {
 		fmt.Println("Nenhum outlier detectado.")
 	}
 }
+
